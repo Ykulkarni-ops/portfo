@@ -39,5 +39,5 @@ six==1.15.0
 sseclient==0.0.26
 toml==0.10.1
 urllib3==1.25.9
-Werkzeug==1.0.1
+Werkzeug==3.0.3
 wrapt==1.12.1
