@@ -11,7 +11,7 @@ freeopcua==0.90.6
 gcloud==0.18.3
 googleapis-common-protos==1.51.0
 httplib2==0.18.1
-idna==2.9
+idna==3.7
 isort==4.3.21
 itsdangerous==1.1.0
 Jinja2==2.11.2
