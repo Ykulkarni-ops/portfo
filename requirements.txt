@@ -38,6 +38,6 @@ rsa==4.0
 six==1.15.0
 sseclient==0.0.26
 toml==0.10.1
-urllib3==1.25.9
+urllib3==1.26.19
 Werkzeug==1.0.1
 wrapt==1.12.1
